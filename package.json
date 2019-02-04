@@ -21,7 +21,7 @@
   "dependencies": {
     "bson-objectid": "^1.1.1",
     "graphql": "0.2.2",
-    "lodash": "^3.10.0"
+    "lodash": "^4.17.11"
   },
   "devDependencies": {
     "babel": "^5.8.19",
